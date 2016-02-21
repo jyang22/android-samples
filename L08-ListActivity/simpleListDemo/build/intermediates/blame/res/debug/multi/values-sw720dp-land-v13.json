@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\AndroidProjects\\android-course\\L08-ListActivity\\simpleListDemo\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "outputFile": "/Users/yj/Documents/Github/android-samples/L08-ListActivity/C:\\AndroidProjects\\android-course\\L08-ListActivity\\simpleListDemo\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "C:\\AndroidProjects\\android-course\\L08-ListActivity\\simpleListDemo\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "file": "/Users/yj/Documents/Github/android-samples/L08-ListActivity/C:\\AndroidProjects\\android-course\\L08-ListActivity\\simpleListDemo\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/yj/Documents/Github/android-samples/L08-ListActivity/simpleListDemo/build/intermediates/res/merged/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/yj/Documents/Github/android-samples/L08-ListActivity/simpleListDemo/src/main/res/values-sw720dp-land/dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

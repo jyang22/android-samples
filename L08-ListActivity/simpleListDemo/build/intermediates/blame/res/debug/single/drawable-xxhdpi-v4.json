@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\AndroidProjects\\android-course\\L08-ListActivity\\simpleListDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
-        "source": "C:\\AndroidProjects\\android-course\\L08-ListActivity\\simpleListDemo\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+        "merged": "/Users/yj/Documents/Github/android-samples/L08-ListActivity/simpleListDemo/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/yj/Documents/Github/android-samples/L08-ListActivity/simpleListDemo/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yj/Documents/Github/android-samples/L08-ListActivity/C:\\AndroidProjects\\android-course\\L08-ListActivity\\simpleListDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "/Users/yj/Documents/Github/android-samples/L08-ListActivity/C:\\AndroidProjects\\android-course\\L08-ListActivity\\simpleListDemo\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     }
 ]

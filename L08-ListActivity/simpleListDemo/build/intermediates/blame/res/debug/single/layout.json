@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\AndroidProjects\\android-course\\L08-ListActivity\\simpleListDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\AndroidProjects\\android-course\\L08-ListActivity\\simpleListDemo\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/yj/Documents/Github/android-samples/L08-ListActivity/C:\\AndroidProjects\\android-course\\L08-ListActivity\\simpleListDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/yj/Documents/Github/android-samples/L08-ListActivity/C:\\AndroidProjects\\android-course\\L08-ListActivity\\simpleListDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/yj/Documents/Github/android-samples/L08-ListActivity/simpleListDemo/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/yj/Documents/Github/android-samples/L08-ListActivity/simpleListDemo/src/main/res/layout/activity_main.xml"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\AndroidProjects\\android-course\\L08-ListActivity\\simpleListDemo\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "outputFile": "/Users/yj/Documents/Github/android-samples/L08-ListActivity/C:\\AndroidProjects\\android-course\\L08-ListActivity\\simpleListDemo\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,33 @@
                     "endOffset": 187
                 },
                 "from": {
-                    "file": "C:\\AndroidProjects\\android-course\\L08-ListActivity\\simpleListDemo\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "/Users/yj/Documents/Github/android-samples/L08-ListActivity/C:\\AndroidProjects\\android-course\\L08-ListActivity\\simpleListDemo\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 316
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/yj/Documents/Github/android-samples/L08-ListActivity/simpleListDemo/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/Users/yj/Documents/Github/android-samples/L08-ListActivity/simpleListDemo/src/main/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
