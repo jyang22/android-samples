@@ -21,7 +21,11 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, SecondActivity.class);
+<<<<<<< HEAD
                 intent.putExtra("data", "This is a secret!");
+=======
+                intent.putExtra("password", "This is a secret!");
+>>>>>>> monkey-jsun/master
                 startActivity(intent);
             }
         });
